@@ -1,7 +1,19 @@
 <<<<<<< HEAD
 # Enhance_Semantic_Segmentation_via_Edge_Detection
 2024-1 Capstone Design
+Based on PIDNet
 =======
+
+## PIDNet의 기본 절차를 따른 후 수행하십시오
+
+```
+python canny_edge.py
+python remove_area_edge.py
+python edge_filter.py
+python occupy_area.py
+```
+
+
 # PIDNet: A Real-time Semantic Segmentation Network Inspired from PID Controller
 	
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pidnet-a-real-time-semantic-segmentation/real-time-semantic-segmentation-on-camvid)](https://paperswithcode.com/sota/real-time-semantic-segmentation-on-camvid?p=pidnet-a-real-time-semantic-segmentation) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pidnet-a-real-time-semantic-segmentation/real-time-semantic-segmentation-on-cityscapes)](https://paperswithcode.com/sota/real-time-semantic-segmentation-on-cityscapes?p=pidnet-a-real-time-semantic-segmentation)
