@@ -1,16 +1,19 @@
 <<<<<<< HEAD
 # Enhance_Semantic_Segmentation_via_Edge_Detection
-2024-1 Capstone Design
-Based on PIDNet
-=======
+## 2024-1 Capstone Design
+### (Based on PIDNet)
 
 ## PIDNet의 기본 절차를 따른 후 수행하십시오
 
 ```
+python tools/custom.py --a pidnet-s --p ./output/cityscapes/pidnet_small_cityscapes/best.pt --t .png
 python canny_edge.py
 python remove_area_edge.py
 python edge_filter.py
 python occupy_area.py
+
+(optional)
+python make_video.py
 ```
 
 
