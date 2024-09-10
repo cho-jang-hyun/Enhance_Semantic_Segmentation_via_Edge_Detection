@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Enhance_Semantic_Segmentation_via_Edge_Detection
 
 ![후처리 파이프라인](https://github.com/user-attachments/assets/2fae8968-c534-44e4-bc5e-1475790d9379)
