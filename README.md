@@ -17,10 +17,18 @@ python occupy_area.py
 python make_video.py
 ```
 
-### Below is the original README of PIDNet
+# Variation of PIDNet with 8 versions
+![table1](https://github.com/user-attachments/assets/10c2fd0a-0ac5-437b-97eb-711a80cf644b)
+
+There is an outstanding improvment with new architecture of PPM.
+With added layer of PPM, the class of 'truck' is improved.
+
+### Architecture of Version4
+![Version4 architecture](https://github.com/user-attachments/assets/c3100b6a-fc56-4b09-84fa-13ff699aab09)
 
 
-
+---
+## Below is the original README of PIDNet
 
 # PIDNet: A Real-time Semantic Segmentation Network Inspired from PID Controller
 	
